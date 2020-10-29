@@ -99,35 +99,6 @@ $(function(){
 	}
 </style>
 
-
-<%--<div id="loginDiv">--%>
-
-	<%--<img src="images/login1.png" class="loginBackgroundImg" id="loginBackgroundImg">--%>
-	<%--<div class="loginSmallDiv" id="loginSmallDiv">--%>
-		<%--<div class="login_acount_text">账户登录</div>--%>
-		<%--<div class="loginInput ">--%>
-                <%--<span class="loginInputIcon ">--%>
-                    <%--<span class=" glyphicon glyphicon-user"></span>--%>
-                <%--</span>--%>
-			<%--<input type="text" placeholder="手机/会员名/邮箱" name="name" id="name">--%>
-		<%--</div>--%>
-		<%--<div class="loginInput ">--%>
-                <%--<span class="loginInputIcon ">--%>
-                    <%--<span class=" glyphicon glyphicon-lock"></span>--%>
-                <%--</span>--%>
-			<%--<input type="password" placeholder="密码" name="password" id="password">--%>
-		<%--</div>--%>
-		<%--<div>--%>
-			<%--<a href="#nowhere" class="notImplementLink">忘记登录密码</a>--%>
-			<%--<a class="pull-right" href="#signup.html">免费注册</a>--%>
-		<%--</div>--%>
-		<%--<div style="margin-top:20px">--%>
-			<%--<button type="button" class="btn btn-block redButton">登录</button>--%>
-		<%--</div>--%>
-	<%--</div>--%>
-<%--</div>--%>
-
-
 <div id="loginDiv" style="position: relative">
 
 

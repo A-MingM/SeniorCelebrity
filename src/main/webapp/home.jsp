@@ -109,7 +109,7 @@
 			</div>
 			<div class="two columns wow fadeInDown">
 				<a href="contact.html" class="header_contact">联系</a>
-				<div class="top-number"><p><i class="fa fa-phone-square"></i>130123124112</p></div>
+				<div class="top-number"><p><i class="fa fa-phone-square"></i>xxxxxxxxxxx</p></div>
 			</div>
 
 		</div>
@@ -125,11 +125,11 @@
 		</div></div>
 	<address><a href="index.jsp"><img src="images/logo.png" alt="風の家" ></a>
 		<p>
-			四川大学二基楼301开发室<br>
+			xxxx<br>
 			TEL:123-456-789
 		</p>
 	</address>
-	<small>&copy; 2018 Gotrip </small>
+	<small>&copy; 2020 Gotrip </small>
 </footer>
 
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->

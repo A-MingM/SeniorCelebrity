@@ -64,7 +64,7 @@
 			</div>
 			<div class="three columns">
 				<a href="#" class="header_contact">联系</a>
-				<div class="top-number"><p><i class="fa fa-phone-square"></i>13928712412</p></div>
+				<div class="top-number"><p><i class="fa fa-phone-square"></i>xxxxxxxxxxx</p></div>
 			</div>
 		</div>
 	</div>
