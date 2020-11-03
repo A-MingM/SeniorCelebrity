@@ -33,7 +33,7 @@
 		<div class="row">
 			<div class="three columns">
 				<div id="mobile-head">
-					<h1 id="title"><a href="index.jsp"><img src="images/logo.png" alt="GoTrip" ></a></h1>
+					<h1 id="title"><a href="index.jsp"><img src="images/logo2.png" alt="GoTrip" ></a></h1>
 					<div id="nav-toggle">
 						<div>
 							<span></span>
@@ -50,21 +50,21 @@
 						<li><a href="${pageContext.request.contextPath}/home">房源</a></li>
 						<li><a href="${pageContext.request.contextPath}/admin/admin_category_list">管理</a></li>
 						<c:if test="${empty user}">
-							<li><a href="${pageContext.request.contextPath}/register.jsp">免费注册</a></li>
+							<li><a href="${pageContext.request.contextPath}/register.jsp">注册</a></li>
 						</c:if>
 						<c:if test="${!empty user}">
 							<li><a href="${pageContext.request.contextPath}/forebought">${user.name}</a></li>
 							<li><a href="${pageContext.request.contextPath}/forelogout">退出</a></li>
 						</c:if>
 						<c:if test="${empty user}">
-							<li><a href="${pageContext.request.contextPath}/login.jsp">请登录</a></li>
+							<li><a href="${pageContext.request.contextPath}/login.jsp">登录</a></li>
 						</c:if>
 					</ul>
 				</nav>
 			</div>
 			<div class="three columns">
 				<a href="#" class="header_contact">联系</a>
-				<div class="top-number"><p><i class="fa fa-phone-square"></i>xxxxxxxxxxx</p></div>
+				<div class="top-number"><p><i class="fa fa-phone-square"></i>2444666668888888</p></div>
 			</div>
 		</div>
 	</div>
