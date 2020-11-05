@@ -95,7 +95,7 @@ $(function(){
 						<td><a deleteLink="true" href="admin_order_delete?id=${o.id}"><span class=" 	glyphicon glyphicon-trash"></span></a></td>
 
 						<td>
-							<button oid="${o.id}" class="orderPageCheckOrderItems btn btn-primary btn-xs" style="align-top:0px"  >查看详情</button>
+							<button oid="${o.id}" class="orderPageCheckOrderItems btn btn-primary btn-xs" style="align-top:0px">查看详情</button>
 						</td>
 					</tr>
 					<tr class="orderPageOrderItemTR"  oid=${o.id}>

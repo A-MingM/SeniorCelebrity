@@ -3,7 +3,7 @@
 
 	
 <div class="registerSuccessDiv">
-	
+
 		<img src="img/site/registerSuccess.png">
 			恭喜注册成功
 </div>
