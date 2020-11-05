@@ -49,7 +49,7 @@ public class AdminController {
         return mav;
     }
 
-    //查询所有房间分类
+    //查询房间分类
     @RequestMapping(value = "/admin_category_list",produces = "text/html;charset=UTF-8")
     @ResponseBody
     public ModelAndView listCategory(){

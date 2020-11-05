@@ -31,7 +31,7 @@
 			<div class="row">
 				<div class="three columns">
 					<div id="mobile-head">
-						<h1 id="title"><a href="${pageContext.request.contextPath}/home"><img src="${pageContext.request.contextPath}/images/logo.png" alt="GoTrip" ></a></h1>
+						<h1 id="title"><a href="${pageContext.request.contextPath}/home"><img src="${pageContext.request.contextPath}/images/logo2.png" alt="GoTrip" ></a></h1>
 						<div id="nav-toggle">
 							<div>
 								<span></span>
@@ -53,8 +53,9 @@
 				</div>
 				<div class="three columns">
 					<a href="#" class="header_contact">联系</a>
-					<div class="top-number"><p><i class="fa fa-phone-square"></i>12346</p></div>
+					<div class="top-number"><p><i class="fa fa-phone-square"></i>2444666668888888</p></div>
 				</div>
+				
 			</div>
 		</div>
 	</header>

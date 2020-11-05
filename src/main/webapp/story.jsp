@@ -19,14 +19,14 @@
         <div class="swiper-slide">
 
             <div class="slider">
-                <img src="images/slider2.jpg" alt="slider1" >
+                <img src="images/head3.jpg" alt="slider1" >
             </div>
         </div>
 
         <div class="swiper-slide">
 
             <div class="slider">
-                <img src="images/slider3.jpg" alt="slider1" >
+                <img src="images/head1.jpg" alt="slider1" >
             </div>
         </div>
 
@@ -57,7 +57,7 @@
         <div class="row">
             <div class="four columns">
                 <div class="waku">
-                    <img src="images/menu1.jpg" alt="メニュー１" />
+                    <img src="images/facility.jpg" alt="メニュー１" />
                 </div>
                 <h3>GoTtrip夏日狂欢</h3>
                 <p>
@@ -66,7 +66,7 @@
             </div>
             <div class="four columns">
                 <div class="waku">
-                    <img src="images/menu2.jpg" alt="メニュー2" />
+                    <img src="images/item1.jpg" alt="メニュー2" />
                 </div>
                 <h3>GoTrip音乐会</h3>
                 <p>
@@ -75,7 +75,7 @@
             </div>
             <div class="four columns">
                 <div class="waku">
-                    <img src="images/menu3.jpg" alt="メニュー3" />
+                    <img src="images/ryouri5.jpg" alt="メニュー3" />
                 </div>
                 <h3>GoTrip美食</h3>
                 <p>
@@ -85,7 +85,7 @@
         </div>
     </div>
 </section>
-
+<%--数据库加载数据--%>
 <%@include file="include/home/storyPage.jsp"%>
 
 <section id="contact">
@@ -99,7 +99,7 @@
             </div>
             <div class="two columns wow fadeInDown">
                 <a href="#" class="header_contact">联系</a>
-                <div class="top-number"><p><i class="fa fa-phone-square"></i>xxxxxxxxxxx</p></div>
+                <div class="top-number"><p><i class="fa fa-phone-square"></i>2444666668888888</p></div>
             </div>
 
         </div>
@@ -113,9 +113,9 @@
     <div class="container">
         <div class="row">
         </div></div>
-    <address><a href="${pageContext.request.contextPath}/index.jsp"><img src="images/logo.png" alt="風の家" ></a>
+    <address><a href="${pageContext.request.contextPath}/index.jsp"><img src="images/logo2.png" alt="風の家" ></a>
         <p>
-            xxx团队<br>
+            xxxx<br>
             TEL:123-456-789
         </p>
     </address>
