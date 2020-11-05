@@ -36,9 +36,13 @@ $(function(){
 		padding: 32px 0px;
 	}
 	img.loginBackgroundImg{
-		display: block;
-		margin: 0px auto;
+		/*display: block;
+		margin: 0px auto;*/
+		display: inline-block;
+		height: auto;
+		width: auto;
 	}
+
 	div.loginSmallDiv{
 		background-color: white;
 		position: absolute;
@@ -99,13 +103,11 @@ $(function(){
 	}
 </style>
 
-<div id="loginDiv" style="position: relative">
+<div id="loginDiv" style="position: fixed">
 
+	<img id="loginBackgroundImg" class="loginBackgroundImg" src="images/login3.jpg">
 
-
-	<img id="loginBackgroundImg" class="loginBackgroundImg" src="images/login1.jpg">
-
-	<form class="loginForm" action="forelogin" method="post">
+	<form class="loginForm"action="forelogin" method="post">
 		<div id="loginSmallDiv" class="loginSmallDiv">
 			<div class="loginErrorMessageDiv">
 				<div class="alert alert-danger" >

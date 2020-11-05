@@ -115,7 +115,6 @@
 
 <p class="pagetop"><a href="#"><i class="fa fa-chevron-up"></i></a></p>
 
-
 <footer>
 	<div class="container">
 		<div class="row">
