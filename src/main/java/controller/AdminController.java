@@ -98,10 +98,11 @@ public class AdminController {
         Category category = new Category();
         category.setName(name);
         Integer cid = categoryService.insert(category);
-        String path1 = "C:\\Users\\70953\\github\\Gotrip\\src\\main\\webapp\\img\\category\\"+cid.toString()+".jpg";
-        String path2 = "C:\\Users\\70953\\github\\Gotrip\\target\\Gotrip\\img\\category\\"+cid.toString()+".jpg";
+        String path1 = "E:\\Mypictures\\Architecture\\"+cid.toString()+".jpg";
+        /* String path2 = "E:\\Mypictures\\Architecture\\"+cid.toString()+".jpg";*/
+        /*C:\Users\70953\github\Gotrip\target\Gotrip\img\category\*/
         filepath.transferTo(new File(path1));
-        FileUtils.copyFile(new File(path1),new File(path2));
+        /*  FileUtils.copyFile(new File(path1),new File(path2));*/
         mav = listCategory();
         return mav;
     }
