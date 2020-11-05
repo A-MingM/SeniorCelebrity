@@ -92,6 +92,9 @@
 	</div>
 </section>
 
+<%--数据库加载数据--%>
+<%@include file="include/home/storyPage.jsp"%>
+
 <section id="contact">
 	<div class="container">
 		<div class="row">

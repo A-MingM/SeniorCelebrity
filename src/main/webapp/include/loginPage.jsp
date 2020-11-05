@@ -103,7 +103,7 @@ $(function(){
 
 
 
-	<img id="loginBackgroundImg" class="loginBackgroundImg" src="images/login1.png">
+	<img id="loginBackgroundImg" class="loginBackgroundImg" src="images/login1.jpg">
 
 	<form class="loginForm" action="forelogin" method="post">
 		<div id="loginSmallDiv" class="loginSmallDiv">
